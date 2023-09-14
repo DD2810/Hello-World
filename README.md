@@ -6,5 +6,6 @@
 * "##" for subtitle
 * "** / __" means **BOLD**
 * "* / _" means *Italic*
+
 **_I made this note as a summary of what I have learnt so far in this class_**
   
